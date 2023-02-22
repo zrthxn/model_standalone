@@ -1,0 +1,10 @@
+# Dataset and general parameters
+device: "cpu"
+dataset: "faces"
+batch_size: 16
+debug: False
+dryrun: False
+
+# Training parameterss
+lr: 0.001
+epochs: 50
